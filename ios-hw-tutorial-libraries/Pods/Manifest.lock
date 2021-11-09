@@ -1,0 +1,16 @@
+PODS:
+  - Emoji-Logger (0.0.93)
+
+DEPENDENCIES:
+  - Emoji-Logger
+
+SPEC REPOS:
+  trunk:
+    - Emoji-Logger
+
+SPEC CHECKSUMS:
+  Emoji-Logger: e691dceb1b8209970ec14ad2e68ce18a5684da55
+
+PODFILE CHECKSUM: a1102899124172bf11bdce43a91064219268d5d2
+
+COCOAPODS: 1.11.2
